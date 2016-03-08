@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mad Over Movies</string>
+    <string name="poster_content">A poster</string>
+    <string name="str_popular">Most Popular</string>
+    <string name="str_highest">Highest Rated</string>
+    <string name="title_activity_movie_details">About</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_scrim">scrim</string>
+    <string name="str_movie_release">Release Date</string>
+    <string name="str_rating">Rating</string>
+    <string name="str_synopsis">Synopsis</string>
+</resources>
